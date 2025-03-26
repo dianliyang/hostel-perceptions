@@ -4,7 +4,7 @@
 
 - Chinese: wohkoon 者行孙青年酒店
 
-::: personal perception
+::: info personal perception
 The youth hostel, located in Beijing, China, featuring several locations throughout the city. Based on my personal experience, staying there, its facilities are potentially superior to those found in comparable hostels in Beijing. Nevertheless, I am uncertain about its suitability for international guests, as I did not observe any during my stay.
 :::
 
