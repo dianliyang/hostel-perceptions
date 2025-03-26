@@ -9,16 +9,16 @@ hero:
   actions:
     - theme: brand
       text: Start Reading
-      link: /markdown-examples
+      link: /perceptions
     - theme: alt
       text: Share Yours
       link: /sharing
 
 features:
-  - title: Feature A
+  - title: Asia
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Europe
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Africa
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
