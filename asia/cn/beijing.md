@@ -5,7 +5,7 @@
 - Chinese: wohkoon 者行孙青年酒店
 
 ::: info personal perception
-The youth hostel, located in Beijing, China, featuring several locations throughout the city. Based on my personal experience, staying there, its facilities are potentially superior to those found in comparable hostels in Beijing. Nevertheless, I am uncertain about its suitability for international guests, as I did not observe any during my stay.
+The youth hostel, with multiple locations throughout Beijing, provided facilities that, in my experience, were better than those at comparable hostels in the city. While I did not encounter any international guests, I'm unsure if this is indicative of its suitability for them. The main drawback was the occasional discourteous behavior of some guests, although this could be a general issue in hostels throughout China.
 :::
 
 **Amenities Provided:**
@@ -23,7 +23,6 @@ The youth hostel, located in Beijing, China, featuring several locations through
 - Inadequate sound insulation between rooms and common areas.
 - Single occupancy rooms are compact in size.
 - Limited size and/or availability of public/common areas.
-- Observed instances of discourteous behaviour among some guests.
 
 ## Zhihexing Hostel
 
